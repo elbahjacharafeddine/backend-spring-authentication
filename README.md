@@ -38,4 +38,5 @@ This Spring Boot project is designed to serve as a robust backend with authentic
 
 ```http
 POST /auth/signup
-...
+POST /auth/login
+
